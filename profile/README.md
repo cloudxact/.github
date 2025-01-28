@@ -35,7 +35,7 @@ CloudXact 工作室不僅僅是一個團隊，更是一個大家庭。
 
 ### 加入流程：
 1. 點擊下方來更了解我們：  
-   - 📩 **Email**: [team@cloudxact.com](mailto:team@cloudxact.com)
+   - 📩 **Email**: [contact@cloudxact.com](mailto:contact@cloudxact.com)
    - 🌐 **官網**: [https://www.cloudxact.com](https://www.cloudxact.com)  
 2. 填寫加入表單，表達你對我們的興趣。  
    👉 [表單連結](https://go.cloudxact.com/join/)
